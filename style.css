@@ -113,9 +113,6 @@ a {
   height: 200px;
 }
 
-#navnithphoto{
-  justify-content: center;
-}
 @media (max-width: 1000px){
   .navbar{
     float: left;
